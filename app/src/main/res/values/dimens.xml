@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="taille_texte">18dp</dimen>
+    <dimen name="taille_bouton">56dp</dimen>
+</resources>

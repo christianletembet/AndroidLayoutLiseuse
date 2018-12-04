@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Application Liseuse</string>
+    <string name="texte">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et maximus lacus. Proin tristique arcu in leo tristique imperdiet. Aliquam condimentum euismod facilisis. Aliquam porttitor, arcu vel ultrices eleifend, magna erat hendrerit est, et euismod neque mauris quis est. Curabitur eget justo et sem vestibulum laoreet. Nunc odio mauris, condimentum ut pretium ac, consectetur nec sem. Nunc at sollicitudin dui. Nunc commodo ex porta venenatis pellentesque. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut at eros venenatis, sollicitudin felis vitae, aliquet enim. Nulla bibendum risus sapien, in convallis neque eleifend et. Praesent porttitor bibendum nisl a mollis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed sit amet neque semper, accumsan justo ut, blandit nisi. Fusce laoreet arcu vel leo cursus aliquet. Phasellus vitae luctus nulla.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et maximus lacus. Proin tristique arcu in leo tristique imperdiet. Aliquam condimentum euismod facilisis. Aliquam porttitor, arcu vel ultrices eleifend, magna erat hendrerit est, et euismod neque mauris quis est. Curabitur eget justo et sem vestibulum laoreet. Nunc odio mauris, condimentum ut pretium ac, consectetur nec sem. Nunc at sollicitudin dui. Nunc commodo ex porta venenatis pellentesque. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut at eros venenatis, sollicitudin felis vitae, aliquet enim. Nulla bibendum risus sapien, in convallis neque eleifend et. Praesent porttitor bibendum nisl a mollis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed sit amet neque semper, accumsan justo ut, blandit nisi. Fusce laoreet arcu vel leo cursus aliquet. Phasellus vitae luctus nulla.
+    </string>
+    <string name="retour">
+        RETOUR EN HAUT
+    </string>
+</resources>
